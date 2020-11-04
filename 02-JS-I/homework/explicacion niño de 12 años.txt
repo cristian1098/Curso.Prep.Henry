@@ -1,0 +1,8 @@
+variable : es una caja magica que guarda y recuerda numeros, textos o cualquier valor o cosa.
+string: es la forma que tenemos en informatica para almacenar una frase con palabras.
+funciones : es la forma de hacer funcionar un objeto. por ejemplo cuando jugas a la play y apretas el boton X del control, eso llama a una funcion que atraves de un return devuelve un disparo
+argumento: son las variables que utiliza la funcion para poder su objetivo!
+if: son condiciones para poder determinar algo: por ejemplo: si NO estudio ENTONCES desaprobare
+valores boolesanos: se utiliza TRUE para validar algo cierto, y TRUE para saber si algo es incorrecto 
+= 2+2=4 (entonces es true)
+  2+3=4(entonces es false)

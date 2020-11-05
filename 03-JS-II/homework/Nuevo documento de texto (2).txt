@@ -1,0 +1,3 @@
+for: el bucle for es como cuando hay personas en una calecita que gira y se les da una instruccion por ejemplo cada vez que den una vuelta, las personas deben gritar y una condicion para que la calecita frene
+&&: si una persona hace deporte y se alimenta bien, va a estar sano. Si una de estas condiciones no se cumple no se puede estar sano, en cambio el operador ||: solo necesita cumplir una de esas condiciones para estar sano.
+!= es un operador de negacion es decir es un NO en español

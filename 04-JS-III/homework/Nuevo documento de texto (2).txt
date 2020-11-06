@@ -1,0 +1,1 @@
+arrays: es como una caja que almacena cosas del mismo tipo y los relaciona!

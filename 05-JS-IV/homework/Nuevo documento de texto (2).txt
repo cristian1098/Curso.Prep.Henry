@@ -1,0 +1,4 @@
+objeto : es una unidad una unidad dentro de un programa informatico que tiene un estado y un comportamiento es decir que tienen datos almacenados y tareas para realizar con esos datos, por ejemplo un auto es un objeto ya que tiene propiedas en las cuales se pueden realizar tareas como el encendido o el apagado 
+propiedades: por ejemplo el color, las ruedas del auto
+metodos: se realizan tareas de acuerdo a las propiedades del objeto, metodo arrancar(llave,combustible). para que funcione se necesita la llave y el combustible.
+for..in: sirve cuando queremos recorrer las propiedades de los objetos	
